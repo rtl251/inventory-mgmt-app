@@ -31,4 +31,4 @@ python3 products_app/app.py
 # All others:
 python products_app/app.py
 # License
-Please pay attention to the license terms.
+Please pay attention to the license terms, located here: https://github.com/prof-rossetti/inventory-mgmt-app-py/blob/master/LICENSE.md
