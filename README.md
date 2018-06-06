@@ -3,7 +3,7 @@ A command-line Python application which allows the user to manage an inventory o
 
 Uses a CSV file datastore.
 
-Installation
+# Installation
 First, "fork" this upstream repository under your own control.
 
 Then download your forked version of this repository using the GitHub.com online interface or the Git command-line interface. If you are using command-line Git, you can download it by "cloning" it:
