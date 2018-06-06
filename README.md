@@ -1,5 +1,4 @@
-# inventory-mgmt-app
-
+# Inventory Management App
 A command-line Python application which allows the user to manage an inventory of products. Performs all product "CRUD" operations (i.e. "List", "Show", "Create", "Update", and "Destroy").
 
 Uses a CSV file datastore.
@@ -31,5 +30,5 @@ python3 products_app/app.py
 
 # All others:
 python products_app/app.py
-License
-Students, please pay attention to the license terms.
+# License
+Please pay attention to the license terms.
