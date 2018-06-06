@@ -14,7 +14,7 @@ After downloading your forked repository, navigate into its root directory:
 cd path/to/inventory-mgmt-app-py/
 NOTE: all commands in this document assume you are running them from this root directory.
 
-#Setup
+# Setup
 Before you run this application for the first time (or anytime you want to reset the database), reset the database by populating it with the default products:
 
 For Homebrew-installed Python 3.x on Mac OS:
@@ -23,7 +23,7 @@ python3 products_app/reset.py
 All others:
 python products_app/reset.py
 
-#Usage
+# Usage
 Run the application:
 
 For Homebrew-installed Python 3.x on Mac OS:
